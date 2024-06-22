@@ -12,3 +12,9 @@ p {
     font-size: 30px;
     color: blueviolet;
 }
+
+button {
+    padding: 5px 30px;
+    font-size: 18px;
+    background-color: #5f9ea0;
+}
