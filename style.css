@@ -5,7 +5,10 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: antiquewhite;
+    background-image: url(image/c023ba770e69d08fe90e75077b3fab72.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 p {
